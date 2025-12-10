@@ -4,8 +4,9 @@ import { ArrowRight } from 'lucide-react'; // Exemplo de ícone, ajuste conforme
 import { Button } from '../ui/button';
 
 // Array de imagens para o slider. Substitua pelos caminhos das suas imagens.
+// Automático apresentação
 const sliderImages = [
-  'https://qlmmdhklaqyxpdctykjk.supabase.co/storage/v1/object/public/box/site/max-img.jpg',
+  'https://th.bing.com/th/id/R.5b0a312a951831a77cf7e3fb08f1c087?rik=DTgGGgb1z94KVA&pid=ImgRaw&r=0',
   'https://th.bing.com/th/id/R.5b0a312a951831a77cf7e3fb08f1c087?rik=DTgGGgb1z94KVA&pid=ImgRaw&r=0',
   'https://ogesseiro.com.br/wp-content/uploads/2024/03/d6701f85-7e0b-41bc-bcd0-3a639b115d15.jpg',
   'https://img.olx.com.br/images/15/157514761381512.jpg',

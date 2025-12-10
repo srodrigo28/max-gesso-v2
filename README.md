@@ -1,12 +1,12 @@
 <div align="center">
 
-# Mega Gesso – Landing Page
+## Mega Gesso – Landing Page
 
-**Site institucional moderno, rápido e totalmente responsivo para a empresa Mega Gesso**
+**Site institucional moderno, rápido e totalmente responsivo para a empresa Max Gesso**
 
 ![Preview da Landing Page](./preview/Preview.png)
 
-<a href="https://mega-gesso-landing.vercel.app" target="_blank">
+<a href="https://max-gesso-landing.vercel.app" target="_blank">
   <strong>Ver demo ao vivo →</strong>
 </a>
 
@@ -45,8 +45,8 @@
 npm install -g pnpm
 Instalação e execução
 Bash# 1. Clone o repositório
-git clone https://github.com/seu-usuario/mega-gesso-landing.git
-cd mega-gesso-landing
+git clone https://github.com/srodrigo28/max-gesso-v2.git
+cd max-gesso-v2
 
 # 2. Instale as dependências
 pnpm install

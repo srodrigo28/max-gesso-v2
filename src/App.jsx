@@ -77,6 +77,7 @@ function App() {
     setFormData({ ...formData, telefone: formattedValue });
   };
 
+  // serviços declarados
   const services = [
     {
       icon: <Home className="w-8 h-8" />,
@@ -101,6 +102,7 @@ function App() {
     },
   ];
 
+  // depoimentos visuais
   const testimonials = [
     {
       name: "Ana Carolina Santos",
@@ -122,6 +124,7 @@ function App() {
     },
   ];
 
+  // menu toogle
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
 
   return (
